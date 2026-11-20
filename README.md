@@ -24,13 +24,17 @@ También: Pulumi, CloudFormation, Prisma, GraphQL, Socket.IO, SQL Server, ETL, P
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/jdguior06/control-asistencia-academica">control-asistencia-academica</a></b><br />
-      Sistema de registro y control de asistencia en TypeScript. Trabajo en grupo: mi versión fue la elegida por el equipo para la defensa.
+      Sistema de asistencia en TypeScript con infraestructura como código (Terraform, Ansible, AWS). Trabajo en grupo: mi versión fue la elegida para la defensa.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/jdguior06/escuela">escuela</a></b><br />
+      Gestión de una escuela de conducción con Laravel, Inertia, Vue 3 y PostgreSQL: reservas, pagos con QR, roles y certificados en PDF.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jdguior06/escuela">escuela</a></b><br />
-      Gestión de una escuela de conducción con Laravel, Inertia, Vue 3 y PostgreSQL: reservas, pagos con QR, roles y certificados en PDF.
+      <b><a href="https://github.com/jdguior06/repository-mrp-back">repository-mrp-back</a></b><br />
+      Microservicio de inventario y MRP con API GraphQL: Spring Boot, JPA y PostgreSQL.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/jdguior06/autoescuela-java-correo">autoescuela-java-correo</a></b><br />
@@ -43,7 +47,6 @@ También: Pulumi, CloudFormation, Prisma, GraphQL, Socket.IO, SQL Server, ETL, P
 
 - **Generador CASE**: diseñador visual de interfaces que exporta código Angular. [Frontend](https://github.com/jdguior06/generadori-front) · [Backend](https://github.com/jdguior06/generadori-back)
 - **Flutter Designer**: diseña una app móvil conversando con una IA y usando una pizarra, y devuelve la app en Flutter. [Frontend](https://github.com/jdguior06/flutter-designer-front) · [Backend](https://github.com/jdguior06/flutter-designer-back)
-- **[repository-mrp-back](https://github.com/jdguior06/repository-mrp-back)**: microservicio de inventario y MRP con API GraphQL (Spring Boot).
 - **[pago_facil_callback](https://github.com/jdguior06/pago_facil_callback)**: servidor que recibe los avisos de pago de PagoFácil.
 - **[TwinDev_Website](https://github.com/jdguior06/TwinDev_Website)**: sitio de presentación de una startup creada como ejercicio de clase.
 
