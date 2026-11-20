@@ -23,10 +23,6 @@ También: Pulumi, CloudFormation, Prisma, GraphQL, Socket.IO, SQL Server, ETL, P
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jdguior06/infraestructura-aws-azure">infraestructura-aws-azure</a></b><br />
-      Infraestructura en equipo de un sistema de control de asistencia, definida como código con Terraform, Pulumi, CloudFormation y Ansible sobre AWS y Azure.
-    </td>
-    <td width="50%" valign="top">
       <b><a href="https://github.com/jdguior06/control-asistencia-academica">control-asistencia-academica</a></b><br />
       Sistema de registro y control de asistencia en TypeScript. Trabajo en grupo: mi versión fue la elegida por el equipo para la defensa.
     </td>
@@ -37,7 +33,7 @@ También: Pulumi, CloudFormation, Prisma, GraphQL, Socket.IO, SQL Server, ETL, P
       Gestión de una escuela de conducción con Laravel, Inertia, Vue 3 y PostgreSQL: reservas, pagos con QR, roles y certificados en PDF.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/jdguior06/primer-parcial-emailjs">primer-parcial-emailjs</a></b><br />
+      <b><a href="https://github.com/jdguior06/autoescuela-java-correo">autoescuela-java-correo</a></b><br />
       Sistema de autoescuela en Java que se administra con comandos enviados por correo electrónico.
     </td>
   </tr>
