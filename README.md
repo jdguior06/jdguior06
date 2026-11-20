@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=170&section=header&text=Juan%20Diego%20Guirapoigua&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20Full-Stack%20%26%20Cloud&descSize=16&descAlignY=60" alt="Juan Diego Guirapoigua · Ingeniería en Sistemas · Full-Stack y Cloud" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=170&section=header&text=Juan%20Diego%20Guirapoigua&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20%C2%B7%20Full-Stack%20y%20Cloud&descSize=16&descAlignY=60" alt="Juan Diego Guirapoigua · Ingeniería en Sistemas · Full-Stack y Cloud" />
 
 <a href="https://www.linkedin.com/in/juan-diego-guirapoigua-oregua-726182236"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Diego-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Santa%20Cruz-Bolivia-4f46e5" alt="Santa Cruz, Bolivia" />
