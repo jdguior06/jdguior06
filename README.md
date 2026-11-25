@@ -54,7 +54,7 @@ También desarrollé un sistema de ventas e inventario con Spring Boot y React p
 
 ## 🌱 Aprendiendo ahora
 
-Infraestructura como código y seguridad en la nube con AWS, en el diplomado de Cloud Infrastructure & DevSecOps (FICCT, U.A.G.R.M.).
+Infraestructura como código y seguridad en la nube con AWS, en el diplomado de Cloud Infrastructure & DevSecOps (School of Engineering, Posgrado FICCT – U.A.G.R.M.).
 
 ## 📫 Contacto
 
