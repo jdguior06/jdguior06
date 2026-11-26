@@ -10,7 +10,7 @@
 
 ## 👋 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas** en la U.A.G.R.M. Me interesan el desarrollo web full-stack y la infraestructura en la nube, y busco una pasantía donde aportar y seguir aprendiendo en equipo.
+Soy egresado de Ingeniería en Sistemas de la U.A.G.R.M. (graduación por diplomado en curso). Me interesan el desarrollo web full-stack y la infraestructura en la nube, y busco una pasantía donde aportar y seguir aprendiendo en equipo.
 
 ## 🧰 Tecnologías
 
